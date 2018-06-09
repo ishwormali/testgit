@@ -9,5 +9,6 @@ export class AppComponent {
   title = 'app';
   constructor() {
     console.log('adding master constructor');
+    console.log('after feature 4 checked out');
   }
 }
